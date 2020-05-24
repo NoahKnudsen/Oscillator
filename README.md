@@ -1,3 +1,3 @@
 # Oscillator
 
-A description of this package.
+An oscillating AVSourceNode
